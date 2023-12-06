@@ -1,0 +1,22 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Building tic-tac-toe with my kids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmealhouse/tic-tac-toe.git"
+  },
+  "author": "Brent Mealhouse <bmealhouse@gmail.com> (https://bmealhouse.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmealhouse/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/bmealhouse/tic-tac-toe#readme",
+  "dependencies": {
+    "parcel": "2.0.1"
+  }
+}
